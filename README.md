@@ -46,6 +46,6 @@ Proyek ini bertujuan untuk memberikan dasar pembuatan dan deployment aplikasi we
 ---
 
 ## Tampilan Website saya
-Berikut adalah tampilan aplikasi:  
+Berikut adalah tampilan webnya:  
 ![Tampilan Aplikasi](https://github.com/AbdulHafizd001/Proyek-Deploy-Aplikasi-Profile/blob/main/Documentation/Interface%20Web.png)  
 
